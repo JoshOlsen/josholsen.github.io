@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: index
 title: Research
 sidebar_link: true
 ---
