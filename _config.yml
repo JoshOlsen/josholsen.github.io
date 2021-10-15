@@ -6,8 +6,8 @@ highlighter:      rouge
 title:            Josh Olsen
 tagline:          'Economics'
 description:      'Environmental Economics, Industial Organization, Econometrics, Financial'
-url:              https://fongandrew.github.io
-baseurl:          '/hydeout'
+url:              'https://josholsen.github.io'
+baseurl:          'https://josholsen.github.io'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -16,7 +16,7 @@ baseurl:          '/hydeout'
 
 author:
   name:           'Josh Olsen'
-  url:            https://twitter.com/olsenecon
+  url:            'https://josholsen.github.io'
 
 paginate:         5
 # paginate_path:    '/page:num'
