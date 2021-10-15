@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Josh Olsen
 tagline:          'Economics'
 description:      'Environmental Economics, Industial Organization, Econometrics, Financial'
-url:              'https://josholsen.github.io'
+url:              'https://www.josholsen.github.io'
 baseurl:          'https://josholsen.github.io'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
