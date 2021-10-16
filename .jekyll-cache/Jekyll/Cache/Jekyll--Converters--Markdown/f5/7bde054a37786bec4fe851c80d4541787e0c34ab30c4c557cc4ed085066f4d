@@ -1,0 +1,11 @@
+I"�<p>Hello!
+I am a PhD candidate in the School of Economic Sciences at Washington State University.</p>
+
+<p>My research centers on wildfire and housing.</p>
+
+<p>-Email: joshua.olsen@wsu.edu<br />
+-href/CV.pdf <br />
+\href=&lt;”/CV/.pdf”&gt;
+https://docs.google.com/viewer?url=${“/CV/.pdf”}
+&lt;object data=”../assets/path/to/document.pdf” width=”1000” height=”1000” type=/CV/.pdf”&gt;&lt;/object&gt;</p>
+:ET

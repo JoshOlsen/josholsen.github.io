@@ -11,6 +11,6 @@ My research centers on wildfire and housing.
 
 
 
-
+you can [download pdf](https://josholsen.github.io/assets/CV.pdf) here.
 -Email: joshua.olsen@wsu.edu\\
--[CV](fall2021.pdf)
+<embed src="https://username.github.io/CV.pdf" type="application/pdf"/>
