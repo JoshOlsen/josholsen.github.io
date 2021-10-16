@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: index
 title: About Me
 sidebar_link: true
 ---
