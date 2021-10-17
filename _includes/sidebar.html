@@ -1,6 +1,7 @@
 <div id="sidebar">
 
   <header>
+    <img src="{{site.baseurl}}/assets/headshot.png", width=200, border="">
     <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
       <a href="{{ "/" | relative_url }}">
         {% unless page.url == "/" %}
@@ -9,9 +10,11 @@
         {{ site.title }}
       </a>
     </{% if page.layout == "index" %}h1{% else %}div{% endif %}>
-    <p class="lead">{{ site.description }}</p>
+
+    <!-- <p class="lead">{{ site.description }}</p> -->
+{{ site.description }}
   </header>
-  {% include sidebar-nav-links.html %}
+<h5>  {% include sidebar-nav-links.html %} </h5>
 
   {% if site.version %}
     <span class="site-version">Currently v{{ site.version }}</span>

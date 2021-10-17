@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Josh Olsen
 tagline:          'Economics'
-description:      'Environmental Economics, Industial Organization, Econometrics, Financial'
+description:      'Environmental Economics, Industial Organization, Econometrics'
 url:              'https://josholsen.github.io'
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"

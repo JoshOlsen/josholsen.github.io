@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: page
 title: Econ 101
 excerpt_separator:  <!--more-->
 ---
