@@ -1,18 +1,18 @@
 <div id="sidebar">
 
   <header>
-    <img src="{{site.baseurl}}/assets/headshot_web.jpg", width=200, border="">
+    <img src="{{site.baseurl}}/assets/headshot_web.jpg", width=180, border="">
     <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
       <a href="{{ "/" | relative_url }}">
         {% unless page.url == "/" %}
           <span class="back-arrow icon">{% include svg/back-arrow.svg %}</span>
         {% endunless %}
-        {{ site.title }}
+        <font size=8>{{ site.title }}</font size=8>
       </a>
     </{% if page.layout == "index" %}h1{% else %}div{% endif %}>
 
     <!-- <p class="lead">{{ site.description }}</p> -->
-{{ site.description }}
+<font size =3> {{ site.description }} </font size = 3>
   </header>
 <h5>  {% include sidebar-nav-links.html %} </h5>
 
