@@ -14,4 +14,4 @@ My research centers on wildfire and housing.
 
 
 -Email: <joshua.olsen@wsu.edu>\\
--[CV]({{ site.baseurl }}/assets/cv.pdf)
+-[CV]({{ site.baseurl }}/assets/CV.pdf)
