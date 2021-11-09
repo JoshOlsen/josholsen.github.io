@@ -27,7 +27,9 @@ In year 2020, there were 9,630 residences destroyed by wildfires in the United S
 
 <h4>Paying it Forward: Housing Assessments and Wildfire Risk</h4>
 
-To fund wildfire protection, some states have required homes located in areas determined by the state to be at higher fire risk to pay a fee. From 2011 to 2017, California charged property owners a fee of approximately \$150 for each habitable structure located in the state responsibility area. In states and counties that don't charge a fee for living in a fire risk area, fire protection services are paid for by the entire group of taxpayers. This may result in an implicit subsidy to homeowners in high fire risk areas. This paper develops a model to determine if states and counties charge high fire risk homeowners more in taxes than non high-risk homeowners. A random forest estimator is used on cross county assessment data to back out county assessment models that determine the assessed value of properties. The resulting models are used to examine the assessed value of homes relative to fire risk. Preliminary results indicate that high fire risk homeowners pay a slight premium to live in a high fire risk areas but less than the amount spent on rural fire protection.
+To fund wildfire protection, some states have required homes located in areas determined by the state to be at higher fire risk to pay a fee. From 2011 to 2017, California charged property owners a fee of approximately $150 for each habitable structure located in the state
+responsibility area. In states and counties that don’t charge a fee for living in a fire risk area, fire protection services are paid for by the entire group of taxpayers. This may result in an implicit subsidy to homeowners in high fire risk areas. This paper develops a model to
+determine if states and counties charge homeowners living in areas with wildfire risk more in taxes than homeowners that live in areas without wildfire risk.
 
 
 
