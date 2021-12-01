@@ -5,7 +5,7 @@ excerpt_separator:  <!--more-->
 ---
 
 Hello!
-I am a PhD student in the School of Economic Sciences at Washington State University.
+I am a PhD candidate in the School of Economic Sciences at Washington State University.
 
 My research centers on wildfire and housing.
 
