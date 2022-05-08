@@ -10,6 +10,8 @@ sidebar_link: true
 
 <h4>Homes as Havens: the Spatial Relationship Between Homes and Areas Burned by Wildfires</h4>
 
+![Map of structure density by state](/assets/BufferOutput.png)
+
 Fire managers have strong incentives to save homes. However, the effectiveness of
 fire suppression is difficult to measure. This paper examines the relationship between
 areas burned by wildfires and home locations by comparing the density of homes around
