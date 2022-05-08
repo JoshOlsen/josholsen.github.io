@@ -20,7 +20,7 @@ I thrive in interdisciplinary work and applying economics to problems previously
 My research has led me to develop a variety of computing skills that I never expected but now find essential. I appreciate the challenge of working on big data projects.
 
 
-In addition to economics I enjoy playing basketball and <a href='https://www.chess.com/member/econrocks'> chess</a>.  
+In addition to economics, I enjoy playing basketball and <a href='https://www.chess.com/member/econrocks'> chess</a>.  
 
 
 <!-- To make pages show up in the sidebar, add `sidebar_link: true` to the front
