@@ -8,7 +8,7 @@ sidebar_link: true
   About me page In addition to my Ph.D. work I am an avid <a href='https://www.chess.com/member/econrocks'> chess</a> player.
 </p> -->
 
-<h3> A little about me </h3>
+<h3> A Little About Me </h3>
 
 ![Picture of me on a lake in a kayak](/assets/Kayak.jpg)
 
