@@ -10,7 +10,7 @@ sidebar_link: true
 
 <h4>Homes as Havens: the Spatial Relationship Between Homes and Areas Burned by Wildfires</h4>
 
-![Map of structure density by state](/assets/BufferOutput.png)
+
 
 Fire managers have strong incentives to save homes. However, the effectiveness of
 fire suppression is difficult to measure. This paper examines the relationship between
@@ -22,6 +22,10 @@ and within refugia. Post-fire structure outcome data from Alexandre et al. (2016
 as well as structure location data from Microsoft’s Building Footprints and Zillow’s
 ZTRAX housing datasets show that refugia is strongly dependent on structure locations. Furthermore, structure density is found to be much higher within 30 meters of fire perimeters, indicating that fires often burn right up to houses. This suggests that
 human factors (fire suppression or development) mitigate fire spread and provides a new metric to measure firefighting effectiveness.
+
+![Map of structure density by state](/assets/BufferOutput.png)
+The graph above shows structure density at various distances from the fire perimeter. Notice the difference in density between thhe 0-30 meter buffer and neighboring buffers, suggesting a spatial relationship between structures and wildfire spread.  
+
 
 <h4>Homebuyers' Values of Housing Attributes Based on Wildfire Risk</h4>
 
