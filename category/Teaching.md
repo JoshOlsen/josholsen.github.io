@@ -21,7 +21,7 @@ EconS 101 Fundamentals of Microeconomics:
 EconS 320 Money and Banking:
 <ul><li>Fall 2018</li></ul>
 
-Econs 555 Managerial Economics for Decision Making:  
+EconS 555 Managerial Economics for Decision Making:  
 <ul><li>Spring 2022</li></ul>
 
 <h4>Teaching Assistant — Washington State University</h4>
