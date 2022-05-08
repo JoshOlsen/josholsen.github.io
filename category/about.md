@@ -10,7 +10,7 @@ sidebar_link: true
 
 <h3> A little about me </h3>
 
-![Picture of me on a lake in a kayak](/assets/Kayak.png)
+![Picture of me on a lake in a kayak](/assets/Kayak.jpg)
 
 
 I grew up in the mountains of Idaho. I enjoy teaching, particularly at the introductory level and helping others to develop and interest in economics.  
